@@ -13,8 +13,8 @@ function App() {
   return ( 
    <main> 
      <Switch>
-       <Route path="/" component={Home} exact></Route>
-       <Route path="/Contact" component={Contact} exact></Route>
+       <Route path="/Ieee_portfolio/" component={Home} exact></Route>
+       <Route path="/Ieee_portfolio/Contact" component={Contact} exact></Route>
      </Switch>
      <Footer/>
 

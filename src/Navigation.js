@@ -11,10 +11,10 @@ function Navi()
      
     </Nav>
     <Nav>
-    <Nav.Link href="/">
+    <Nav.Link href="/Ieee_portfolio/">
        HOME
       </Nav.Link>
-      <Nav.Link  href="/Contact">
+      <Nav.Link  href="/Ieee_portfolio/Contact">
        CONTACT
       </Nav.Link>
     </Nav>
