@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Ieee_portfolio/static/css/main.a6672b1a.chunk.css",
+    "main.js": "/Ieee_portfolio/static/js/main.32317416.chunk.js",
+    "main.js.map": "/Ieee_portfolio/static/js/main.32317416.chunk.js.map",
+    "runtime-main.js": "/Ieee_portfolio/static/js/runtime-main.632d435b.js",
+    "runtime-main.js.map": "/Ieee_portfolio/static/js/runtime-main.632d435b.js.map",
+    "static/css/2.11829350.chunk.css": "/Ieee_portfolio/static/css/2.11829350.chunk.css",
+    "static/js/2.c6b5f7e6.chunk.js": "/Ieee_portfolio/static/js/2.c6b5f7e6.chunk.js",
+    "static/js/2.c6b5f7e6.chunk.js.map": "/Ieee_portfolio/static/js/2.c6b5f7e6.chunk.js.map",
+    "index.html": "/Ieee_portfolio/index.html",
+    "precache-manifest.72458188c9b7dc9299da9c160e4b01f6.js": "/Ieee_portfolio/precache-manifest.72458188c9b7dc9299da9c160e4b01f6.js",
+    "service-worker.js": "/Ieee_portfolio/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Ieee_portfolio/static/css/2.11829350.chunk.css.map",
+    "static/css/main.a6672b1a.chunk.css.map": "/Ieee_portfolio/static/css/main.a6672b1a.chunk.css.map",
+    "static/js/2.c6b5f7e6.chunk.js.LICENSE.txt": "/Ieee_portfolio/static/js/2.c6b5f7e6.chunk.js.LICENSE.txt",
+    "static/media/CSS.png": "/Ieee_portfolio/static/media/CSS.c26a73b4.png",
+    "static/media/bg.png": "/Ieee_portfolio/static/media/bg.67e4af39.png",
+    "static/media/html.png": "/Ieee_portfolio/static/media/html.664a8c00.png",
+    "static/media/java.jpg": "/Ieee_portfolio/static/media/java.f58bf242.jpg",
+    "static/media/logo.svg": "/Ieee_portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/pp.jpeg": "/Ieee_portfolio/static/media/pp.b61eb6ff.jpeg",
+    "static/media/python.jpg": "/Ieee_portfolio/static/media/python.89d91185.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.632d435b.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.c6b5f7e6.chunk.js",
+    "static/css/main.a6672b1a.chunk.css",
+    "static/js/main.32317416.chunk.js"
+  ]
+}
