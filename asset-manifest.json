@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ieee_portfolio/static/css/main.a6672b1a.chunk.css",
-    "main.js": "/Ieee_portfolio/static/js/main.f5b5ee77.chunk.js",
-    "main.js.map": "/Ieee_portfolio/static/js/main.f5b5ee77.chunk.js.map",
+    "main.js": "/Ieee_portfolio/static/js/main.e944399e.chunk.js",
+    "main.js.map": "/Ieee_portfolio/static/js/main.e944399e.chunk.js.map",
     "runtime-main.js": "/Ieee_portfolio/static/js/runtime-main.632d435b.js",
     "runtime-main.js.map": "/Ieee_portfolio/static/js/runtime-main.632d435b.js.map",
     "static/css/2.11829350.chunk.css": "/Ieee_portfolio/static/css/2.11829350.chunk.css",
     "static/js/2.c6b5f7e6.chunk.js": "/Ieee_portfolio/static/js/2.c6b5f7e6.chunk.js",
     "static/js/2.c6b5f7e6.chunk.js.map": "/Ieee_portfolio/static/js/2.c6b5f7e6.chunk.js.map",
     "index.html": "/Ieee_portfolio/index.html",
-    "precache-manifest.0fd16f0061190774ff2b091c3a75f9d6.js": "/Ieee_portfolio/precache-manifest.0fd16f0061190774ff2b091c3a75f9d6.js",
+    "precache-manifest.195420e4d6bbba4e8e3397e0a9950ca7.js": "/Ieee_portfolio/precache-manifest.195420e4d6bbba4e8e3397e0a9950ca7.js",
     "service-worker.js": "/Ieee_portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Ieee_portfolio/static/css/2.11829350.chunk.css.map",
     "static/css/main.a6672b1a.chunk.css.map": "/Ieee_portfolio/static/css/main.a6672b1a.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.c6b5f7e6.chunk.js",
     "static/css/main.a6672b1a.chunk.css",
-    "static/js/main.f5b5ee77.chunk.js"
+    "static/js/main.e944399e.chunk.js"
   ]
 }
