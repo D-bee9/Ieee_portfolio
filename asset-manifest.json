@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Ieee_portfolio/static/css/main.a6672b1a.chunk.css",
-    "main.js": "/Ieee_portfolio/static/js/main.0f029898.chunk.js",
-    "main.js.map": "/Ieee_portfolio/static/js/main.0f029898.chunk.js.map",
+    "main.css": "/Ieee_portfolio/static/css/main.d775329c.chunk.css",
+    "main.js": "/Ieee_portfolio/static/js/main.1b8431ba.chunk.js",
+    "main.js.map": "/Ieee_portfolio/static/js/main.1b8431ba.chunk.js.map",
     "runtime-main.js": "/Ieee_portfolio/static/js/runtime-main.632d435b.js",
     "runtime-main.js.map": "/Ieee_portfolio/static/js/runtime-main.632d435b.js.map",
     "static/css/2.11829350.chunk.css": "/Ieee_portfolio/static/css/2.11829350.chunk.css",
-    "static/js/2.c6b5f7e6.chunk.js": "/Ieee_portfolio/static/js/2.c6b5f7e6.chunk.js",
-    "static/js/2.c6b5f7e6.chunk.js.map": "/Ieee_portfolio/static/js/2.c6b5f7e6.chunk.js.map",
+    "static/js/2.7947626a.chunk.js": "/Ieee_portfolio/static/js/2.7947626a.chunk.js",
+    "static/js/2.7947626a.chunk.js.map": "/Ieee_portfolio/static/js/2.7947626a.chunk.js.map",
     "index.html": "/Ieee_portfolio/index.html",
-    "precache-manifest.7cd4e11575c31cfa7198e3a399e3ade1.js": "/Ieee_portfolio/precache-manifest.7cd4e11575c31cfa7198e3a399e3ade1.js",
+    "precache-manifest.3f3ad3ec70ebcaa650f8c0f2b59c6947.js": "/Ieee_portfolio/precache-manifest.3f3ad3ec70ebcaa650f8c0f2b59c6947.js",
     "service-worker.js": "/Ieee_portfolio/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/Ieee_portfolio/static/css/2.11829350.chunk.css.map",
-    "static/css/main.a6672b1a.chunk.css.map": "/Ieee_portfolio/static/css/main.a6672b1a.chunk.css.map",
-    "static/js/2.c6b5f7e6.chunk.js.LICENSE.txt": "/Ieee_portfolio/static/js/2.c6b5f7e6.chunk.js.LICENSE.txt",
+    "static/css/main.d775329c.chunk.css.map": "/Ieee_portfolio/static/css/main.d775329c.chunk.css.map",
+    "static/js/2.7947626a.chunk.js.LICENSE.txt": "/Ieee_portfolio/static/js/2.7947626a.chunk.js.LICENSE.txt",
     "static/media/CSS.png": "/Ieee_portfolio/static/media/CSS.c26a73b4.png",
     "static/media/bg.png": "/Ieee_portfolio/static/media/bg.67e4af39.png",
     "static/media/html.png": "/Ieee_portfolio/static/media/html.664a8c00.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.632d435b.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.c6b5f7e6.chunk.js",
-    "static/css/main.a6672b1a.chunk.css",
-    "static/js/main.0f029898.chunk.js"
+    "static/js/2.7947626a.chunk.js",
+    "static/css/main.d775329c.chunk.css",
+    "static/js/main.1b8431ba.chunk.js"
   ]
 }
