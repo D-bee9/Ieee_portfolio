@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76940f0a7947a0adb99a5ee6fd2cdbf4",
+    "revision": "45c91de1013fd0ebec03c1bc3174cf2a",
     "url": "/Ieee_portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ieee_portfolio/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "ff32910e97cb2c630e13",
+    "revision": "a00ba71d4668e8c99fe0",
     "url": "/Ieee_portfolio/static/css/main.d775329c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ieee_portfolio/static/js/2.7947626a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ff32910e97cb2c630e13",
-    "url": "/Ieee_portfolio/static/js/main.1b8431ba.chunk.js"
+    "revision": "a00ba71d4668e8c99fe0",
+    "url": "/Ieee_portfolio/static/js/main.d35b54c4.chunk.js"
   },
   {
     "revision": "94b974740115db4fd6de",
